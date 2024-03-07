@@ -33,7 +33,7 @@ jobs:
  #************************ Check Name *********************************
       
       - name: Execute Python script
-        run: python Graphs_Power_Generation_V2.py
+        run: python Wholesale.py
 
 
       - name: commit files
