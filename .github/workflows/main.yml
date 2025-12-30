@@ -3,7 +3,7 @@ name: Python Script API Wholesale Market
 on:
 
  
- schedule:
+#  schedule:
      - cron: '0 0/2 * * *' # At minute 0 past every 2 hours
 
 # workflow_dispatch: # Manually trigger the workflow
